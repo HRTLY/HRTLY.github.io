@@ -1,0 +1,107 @@
+
+<!Doctype html>
+
+<html lang="en-UK">
+
+
+<head>
+  <title>HRTLY: Album Spotlight</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="1ststyle [2].css">
+</head>
+
+
+<body >
+
+  <div class="heading">
+    <h1>HRTLY: Album Spotlight</h1>
+  </div>
+  <div class="navbar">
+    <ul>
+      <li><a href="HRTLY_home.html">Home</a></li>
+      <li><a href="HRTLY_songs.html">today's new track</a></li>
+      <li><a href="HRTLY_artists.html">Artist of the week</a></li>
+      <li><a href="HRTLY_albums.html">Album spotlight</a></li>
+      <li><a href="HRTLY_contact.html">Contact us</a></li>
+    </ul>
+  </div>
+
+<div class="container">
+
+  <div class="outer">
+    <p>&#160</p>
+  </div>
+
+  <div class="main">
+
+<!--Article 1-->
+    <article id="S09062015">
+      <h2>Sound &#38 Color – Alabama Shakes</h2><br />
+      <h3>Album Spotlight:</h3><br />
+      <p>Released in April, 2015 Alabama Shakes’ second album was released just over three years after their debut album <i>Boys &#38 Girls</i> features top singles such as <i>Gimme All Your Love </i> and <i> Don’t Wanna Fight:</i></p>
+    <div class="youtube">
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/x-5OX7CO26c" frameborder="0" allowfullscreen></iframe>
+    </div>
+      <p>The album was appreciated around the globe reaching number 1 in the US Billboard 200 and number 6 in the UK album charts. Sound &#38 Color demonstrates Alabama Shakes truly unique and mesmerising style that endears the listener to never stop listening, it has also fascinated the critics who have described the album as a: <blockquote>deliberately weird record, but authentically weird; it's chaotic yet cohesive, full of sound, colour and unshakable vision</blockquote> Which perfectly describes the beautiful sound that Alabama Shakes creates.</p>
+      <br />
+      <p class="date">09/06/2015</p>
+    </article>
+
+<!--Article 2-->
+
+<!--Article 3-->
+  </div>
+
+  <div class="inner">
+    <p>&#160</p>
+  </div>
+
+  <div class="sidebar">
+    <div class="sidebox">
+      <h3>New This Week</h3>
+        <ul>
+        <li><a href="HRTLY_songs.html#T08062015">Hanging</a></li>
+        <li><a href="HRTLY_artists.html#W09062015">Slaves</a></li>
+        <li><a href="HRTLY_albums.html#S09062015">Sound &#38 Color</a></li>
+      </ul>
+    </div>
+
+    <div class="sidebox">
+      <h3>Our top 5</h3>
+        <dl>
+        <dt>1. Hey</dt>
+        <dd>Slaves</dd>
+        <dt>2. Hanging</dt>
+        <dd>Nothing but Thieves</dd>
+        <dt>3. Hanging</dt>
+        <dd>Nothing but Thieves</dd>
+        <dt>4. Cheer Up London</dt>
+        <dd>Slaves</dd>
+        <dt>5. Hanging</dt>
+        <dd>Nothing but Thieves</dd>
+        </ol>
+    </div>
+
+
+    <div class="sidebox">
+      <h3>Support us</h3>
+      <p>Feel free to support us by liking, following and sharing us around the internet.</p>
+    </div>
+
+
+    <div class="sidebox">
+      <h3>Who's Next</h3>
+      <p>Who would you like to see here next. Are we missing one of your favourite indie rock artists? If so contact us through our <strong>CONTACT</strong> page.</p>
+    </div>
+  </div>
+
+  <div class="outer">
+    <p>&#160</p>
+  </div>
+
+</div>
+
+</body>
+</html>
+
+
