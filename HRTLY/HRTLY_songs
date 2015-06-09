@@ -1,0 +1,107 @@
+
+<!Doctype html>
+
+<html lang="en-UK">
+
+
+<head>
+  <title>HRTLY: Today's New Track</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="1ststyle [2].css">
+</head>
+
+
+<body >
+
+  <div class="heading">
+    <h1>HRTLY: Today's New Track</h1>
+  </div>
+  <div class="navbar">
+    <ul>
+      <li><a href="HRTLY_home.html">Home</a></li>
+      <li><a href="HRTLY_songs.html">today's new track</a></li>
+      <li><a href="HRTLY_artists.html">Artist of the week</a></li>
+      <li><a href="HRTLY_albums.html">Album spotlight</a></li>
+      <li><a href="HRTLY_contact.html">Contact us</a></li>
+    </ul>
+  </div>
+
+<div class="container">
+
+  <div class="outer">
+    <p>&#160</p>
+  </div>
+
+  <div class="main">
+
+<!--Article 1-->
+    <article id="T08062015">
+      <h2>Hanging - Nothing But Thieves</h2><br />
+      <h3>Today's New Track:</h3><br />
+      <p>This sensational new five-piece have been rocking their way into 2015 with hit after hit, first with "ban all the music" and then next with "itch". Our track of today, from Nothing But Thieves, was decribed as the B-side to their newest single "itch".</p>
+    <div class="youtube">
+      <iframe width="640" height="360" src="https://www.youtube.com/embed/I0pL-nqcFiY" frameborder="0" allowfullscreen></iframe>
+    </div>
+      <p>Nothing But Thieves are one of the biggest artists of this year with "Itch"  featuring as a BBC Radio 1 track of the day and a debut album coming in August of this year. Whilst "Hanging" may not have been quite as large as Nothing but Thieves previous' singles (yet), it has been massively enjoyed by fans of the band and is sure to be part of their tour playlist. Hopefully the band will continue to produce amazing records in the near future and we will look forward to their debut album.</p>
+      <br />
+      <p class="date">08/06/2015</p>
+    </article>
+
+<!--Article 2-->
+
+<!--Article 3-->
+  </div>
+
+  <div class="inner">
+    <p>&#160</p>
+  </div>
+
+  <div class="sidebar">
+    <div class="sidebox">
+      <h3>New This Week</h3>
+        <ul>
+        <li><a href="HRTLY_songs.html#T08062015">Hanging</a></li>
+        <li><a href="HRTLY_artists.html#W09062015">Slaves</a></li>
+        <li><a href="HRTLY_albums.html#S09062015">Sound &#38 Color</a></li>
+      </ul>
+    </div>
+
+    <div class="sidebox">
+      <h3>Our top 5</h3>
+        <dl>
+        <dt>1. Hey</dt>
+        <dd>Slaves</dd>
+        <dt>2. Hanging</dt>
+        <dd>Nothing but Thieves</dd>
+        <dt>3. Hanging</dt>
+        <dd>Nothing but Thieves</dd>
+        <dt>4. Cheer Up London</dt>
+        <dd>Slaves</dd>
+        <dt>5. Hanging</dt>
+        <dd>Nothing but Thieves</dd>
+        </ol>
+    </div>
+
+
+    <div class="sidebox">
+      <h3>Support us</h3>
+      <p>Feel free to support us by liking, following and sharing us around the internet.</p>
+    </div>
+
+
+    <div class="sidebox">
+      <h3>Who's Next</h3>
+      <p>Who would you like to see here next. Are we missing one of your favourite indie rock artists? If so contact us through our <strong>CONTACT</strong> page.</p>
+    </div>
+  </div>
+
+  <div class="outer">
+    <p>&#160</p>
+  </div>
+
+</div>
+
+</body>
+</html>
+
+
